@@ -79,7 +79,7 @@
 
 
 
-<a href="elizaldeCandojorlan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jorlan%20elizalde-blue?style=flat-square&logo=gmail"></a>
+<a href="elizaldecandojorlan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jorlan%20elizalde-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
